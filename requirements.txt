@@ -1,0 +1,5 @@
+elasticsearch==8.13.0
+langdetect==1.0.9
+schedule==1.2.1
+torch==2.2.2
+transformers==4.39.3
